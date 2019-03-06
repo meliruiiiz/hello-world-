@@ -21,5 +21,32 @@ header {
     /*set and adjust background image*/
     background-image: url("headerimage.jpg");
     background-size:cover;
+    text-align:center;
+    
+}
+
+.services{
+    text-align: center;
+} 
+.services i{
+    /*Adjust the zise and position of the icon*/
+    font size:30px;
+
+    padding:10px 20px;
+    /*color changes the color of the icon*/
+    color: #fff;
+    Background-color: #5bc0de;
+    /*Resize changes the color of the icon is in*/
+    width:80px;
+    height: 40;
+    /*changes the roundness of the container*/
+    border-radius: ..; 
+}
+.services span{
+    width:200px;
+    display: inline block;
+    color: purple
+    
+    
 }
 
